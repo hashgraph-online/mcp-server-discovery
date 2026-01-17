@@ -44,13 +44,13 @@ Follow the on-screen prompts to search for capabilities or browse by protocol.
 - [Model Context Protocol](https://modelcontextprotocol.io)
 - [Hashgraph Online Registry](https://hol.org/registry)
 
-## 🏆 Earn HOL Points
+## 🏆 Score HOL Points
 
-Contribute to this repository and earn [HOL Points](https://hol.org/points)! 
+Contribute to this repository and score [HOL Points](https://hol.org/points)! 
 
 - 🔧 **Fix bugs** or improve documentation
 - ✨ **Add new features** or examples
-- 📝 **Submit pull requests** to earn points
+- 📝 **Submit pull requests** to score points
 
 Points can be used across the HOL ecosystem. [Learn more →](https://hol.org/points)
 
