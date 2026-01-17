@@ -7,6 +7,8 @@
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open_in-CodeSandbox-blue?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/s/github/hashgraph-online/mcp-server-discovery)
 [![Open in StackBlitz](https://img.shields.io/badge/Open_in-StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white)](https://stackblitz.com/github/hashgraph-online/mcp-server-discovery)
+[![Open in Replit](https://img.shields.io/badge/Open_in-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/hashgraph-online/mcp-server-discovery)
+[![Open in Gitpod](https://img.shields.io/badge/Open_in-Gitpod-FFAE33?style=for-the-badge&logo=gitpod&logoColor=white)](https://gitpod.io/#https://github.com/hashgraph-online/mcp-server-discovery)
 
 An interactive CLI tool to discover Model Context Protocol (MCP) servers and other AI agents using the Hashgraph Online Universal Registry.
 
@@ -41,3 +43,17 @@ Follow the on-screen prompts to search for capabilities or browse by protocol.
 
 - [Model Context Protocol](https://modelcontextprotocol.io)
 - [Hashgraph Online Registry](https://hol.org/registry)
+
+## 🏆 Earn HOL Points
+
+Contribute to this repository and earn [HOL Points](https://hol.org/points)! 
+
+- 🔧 **Fix bugs** or improve documentation
+- ✨ **Add new features** or examples
+- 📝 **Submit pull requests** to earn points
+
+Points can be used across the HOL ecosystem. [Learn more →](https://hol.org/points)
+
+## License
+
+MIT

@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Interactive tool to discover MCP servers via Hashgraph Online",
   "type": "module",
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "start": "tsx src/index.ts"
   },
